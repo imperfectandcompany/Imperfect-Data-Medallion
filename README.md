@@ -1,4 +1,20 @@
-# Imperfect Data Medallion
+<p align="center">
+  <img src="https://cdn.imperfectandcompany.com/assets/diagrams/imperfect_data_logo.png" width="100" />
+</p>
+<p align="center">
+    <h1 align="center">IMPERFECT DATA MEDALLION
+</h1>
+</p>
+<p align="center">
+    <em>https://imperfectandcompany.com/</em>
+</p>
+
+
+<div align="center">
+  
+![Imperfect and Company Data Diagrams](https://cdn.imperfectandcompany.com/assets/diagrams/github_graphic.png)
+</div>
+
 
 ## Introduction
 The Imperfect Data Medallion repository is dedicated to creating a comprehensive data handling and analytical framework for Imperfect and Company. By leveraging the Medallion architecture, we aim to streamline our data workflows from raw data ingestion to refined analytical insights.
