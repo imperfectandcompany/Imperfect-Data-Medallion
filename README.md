@@ -13,6 +13,10 @@
 <div align="center">
   
 ![Imperfect and Company Data Diagrams](https://cdn.imperfectandcompany.com/assets/diagrams/github_graphic.png)
+
+![gaming_network_analytics_data_model](https://github.com/imperfectandcompany/Imperfect-Data-Medallion/assets/3193289/2a56eb7c-b454-41f1-a48d-1e1d734d11cb)
+
+
 </div>
 
 
